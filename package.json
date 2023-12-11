@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-lab",
+  "version": "1.0.0",
+  "description": "nodejs drills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amcrussell/nodejs-drills.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amcrussell/nodejs-drills/issues"
+  },
+  "homepage": "https://github.com/amcrussell/nodejs-drills#readme",
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  }
+}
